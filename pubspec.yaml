@@ -1,0 +1,7 @@
+name: parsley
+description: A simple but powerful parsing engine
+version: 0.0.6
+homepage: https://www.dart-parsley.com/
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
